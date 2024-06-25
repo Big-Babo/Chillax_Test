@@ -203,7 +203,7 @@
 .theme-dark .wordmark_a934d8::before {
     content: "‏‏‎ B i g  B a b o";
     font-size: 12px;
-    font-family: "Poiret one" !important;
+    font-family: "Playfair Display" !important;
     position: fixed;
     color: rgb(255, 255, 255);
     background: var(--window-colour);
