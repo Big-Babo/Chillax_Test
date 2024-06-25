@@ -201,7 +201,7 @@
 }
 
 .theme-dark .wordmark_a934d8::before {
-    content: "‏‏‎ Big Babo";
+    content: "‏‏‎ B i g  B a b o";
     font-size: 12px;
     font-family: "Poiret one" !important;
     position: fixed;
